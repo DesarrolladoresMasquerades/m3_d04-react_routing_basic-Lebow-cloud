@@ -5,7 +5,7 @@ function AboutPage() {
   return (
     <div>
       <h1>About</h1>
-      <img src={imgURL} alt="the office gif" className="page-img" />
+      <img src={imgURL} alt="the office gif" className="page-img App-logo" />
     </div>
   );
 }
